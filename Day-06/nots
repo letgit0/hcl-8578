@@ -1,0 +1,14 @@
+lambda expression needs functional expression
+Generics
+Exception handling
+try{
+    return
+}...
+finally{
+    return // runs unless System.exit in try.
+}
+
+Custom Exception 
+Throwable
+Streams
+sort in stream, filter, collect, 
